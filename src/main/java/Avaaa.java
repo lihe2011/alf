@@ -8,4 +8,7 @@
  * @Description:
  */
 public class Avaaa {
+    public static void main(String[] args) {
+        System.out.println("DDD");
+    }
 }
