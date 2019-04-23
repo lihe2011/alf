@@ -11,6 +11,7 @@ public class Abc {
 
         System.out.println();
         System.out.println("111");
+        System.out.println("111");
     }
 
     public void aaa(){
